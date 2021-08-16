@@ -14,7 +14,7 @@
 
 Step 1: Go to directory either conv4 or conv6 or DE-CNN_pruning
 ```
-cd Baseline/conv4
+cd Baselines/conv4
 ```
 
 Step 2: Training models on SemEval laptop14 and restaurant16 dataset 
